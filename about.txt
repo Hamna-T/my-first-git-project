@@ -1,0 +1,11 @@
+MY FIRST GITHUB PROJECT
+
+Name: Hamna T
+
+This is my first practical exercise using Git and GitHub.
+
+I have successfully:
+1. Created a GitHub repository.
+2. Cloned the repository to my computer.
+3. Created and edited a file.
+4. Learned the Git workflow.
